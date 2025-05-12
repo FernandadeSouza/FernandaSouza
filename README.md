@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Fernanda Rodrigues Faria de Souza, tenho 21 anos e sou natural de São Carlos, SP.  Atualmente, estou cursando Engenharia de Software na ANHANGUERA e atuo como Assistente de Banco de Dados na Serasa Experian.
+Me chamo Fernanda, tenho 21 anos e sou natural de São Carlos, SP.  Atualmente, estou cursando Engenharia de Software na ANHANGUERA e atuo como Assistente de Banco de Dados na Serasa Experian.
 Sou apaixonada por tecnologia e estou sempre em busca de novos aprendizados. No momento, estou me aprofundando em linguagens como Python, C# e SQL.
 
 ---
