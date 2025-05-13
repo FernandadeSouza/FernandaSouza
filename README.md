@@ -6,7 +6,7 @@ Me chamo Fernanda, tenho 21 anos e sou natural de São Carlos, SP.  Atualmente, 
 Sou apaixonada por tecnologia e estou sempre em busca de novos aprendizados. No momento, estou me aprofundando em linguagens como Python, C# e SQL.
 
 ---
-🌐 Me encontra por lá:
+🌐 Me encontre por lá:
 
 
 <!-- Badge do LinkedIn -->
